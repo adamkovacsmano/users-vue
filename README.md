@@ -1,24 +1,20 @@
-# users_app
+# Awesome Users
+## Prerequisites
 
-## Project setup
-```
-npm install
-```
+Backend API:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+https://github.com/cornflourblue/dotnet-6-crud-api
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- Clone the above repo locally
+- Navigate into the folder
+- Run `dotnet run`
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Front End:
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+In a different tab follow these steps:
+
+- `git clone https://github.com/adamkovacsmano/users-vue.git`
+- `npm install`
+- `npm run serve`
+
+Navigate to http://localhost:8080/
